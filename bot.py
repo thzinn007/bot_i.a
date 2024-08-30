@@ -14,6 +14,7 @@ class SimpleChatbot:
             'o que você fez hoje?' : ['Eu criei textos e respondi perguntas.', 'hoje eu criei poemas.', 'criei redações.'],
             'qual é o melhor jogador do mundo?' : ['Vini jr.', 'mbappe.', "cristiano ronaldo."],
             'qual é o melhor time do brasil?' : ['Corinthians.', 'Botafogo', 'Flamengo.'],
+            'qual é o menor time de sp?' : ['palmeiras.', 'santos.', 'são paulo.'],
             'passa a resposta da lição': ['qual é a lição?'],
             'lição de ia': ['qual semana e aula?'],
             's15- aula- 3': ['a resposta é criar perguntas para o chat bot interagir com você']
